@@ -1,0 +1,72 @@
+body{
+  background-color: #c62828;
+  margin-top: 5px;
+}
+.container{
+  background-color: #fff;
+  border-radius: 5px;
+}
+.content{
+  margin-top: 20px;
+  padding-top: 15px;
+}
+/* header */
+.logo-img{
+  width: 150px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.img-social{
+  width: 40px;
+}
+.redes-sociales{
+  margin-top: 80px;
+}
+.lista-redes{
+  padding: 0 !important;
+}
+.lista-redes:hover{
+  cursor: pointer;
+  filter:contrast(200%);
+}
+/* Menu */
+.menu{
+  background-color: #FFB74D;
+  margin-bottom: 3px;
+}
+.menu a{
+  color: #000;
+  display: block;
+  padding: 10px 0;
+}
+.menu a:hover{
+  text-decoration: none;
+  background-color: #fff;
+}
+/* Buscador */
+.search{
+  margin-top: 20px;
+}
+.list-search{
+  border: 1px solid #ccc;
+}
+.list-search a{
+  text-decoration: none;
+  padding: 10px;
+  display: block;
+  color: #000;
+}
+.list-search a:hover{
+  background-color: #EEEEEE;
+}
+.text-area{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+/* Comentario */
+.comment{
+  width: 95% !important;
+}
+.img-user{
+  width: 60px;
+}
